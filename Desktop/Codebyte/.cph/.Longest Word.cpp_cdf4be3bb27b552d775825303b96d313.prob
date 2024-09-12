@@ -1,0 +1,1 @@
+{"name":"Local: Longest Word","url":"/home/tamim/Desktop/Codebyte/Longest Word.cpp","tests":[{"id":1726177298471,"input":"fun&!! time","output":""},{"id":1726177679429,"input":"I love dogs","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/tamim/Desktop/Codebyte/Longest Word.cpp","group":"local","local":true}
